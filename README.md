@@ -28,14 +28,14 @@
 
 <p align="center">
   <br/>
-    <a href="https://github.com/yasinbhojani/github-readme-stats"><img alt="yasinbhojani Github Stats" src="https://github-readme-stats.vercel.app/api?username=yasinbhojani&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="45%" /></a>
-  <a href="https://github.com/yasinbhojani/github-readme-stats"><img alt="yasinbhojani Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinbhojani&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="45%"/></a>
+    <a href="https://github.com/yasinbhojani/github-readme-stats"><img alt="yasinbhojani Github Stats" src="https://github-readme-stats.vercel.app/api?username=SohamGanmote&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="45%" /></a>
+  <a href="https://github.com/SohamGanmote/github-readme-stats"><img alt="SohamGanmote Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamGanmote&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="45%"/></a>
 </p>
 
 
 <p align="center">
     <a href="https://github.com/yasinbhojani/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="yasinbhojani streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yasinbhojani&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" width="75%"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SohamGanmote streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SohamGanmote&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" width="75%"/>
     </a>
 </p>
 
@@ -46,7 +46,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/yasinbhojani/github-readme-activity-graph"><img alt="GitHub-yasinbhojani Activity Graph" width="100%"  src="https://activity-graph.herokuapp.com/graph?username=yasinbhojani&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SohamGanmote/github-readme-activity-graph"><img alt="GitHub-SohamGanmote Activity Graph" width="100%"  src="https://activity-graph.herokuapp.com/graph?username=SohamGanmote&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <!--
