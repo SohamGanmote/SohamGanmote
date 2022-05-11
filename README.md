@@ -38,7 +38,7 @@
 
 <br/>
 
-## 📊 My Github Stats
+<h3 align="left">📊 My Github Stats : </h3>
 
 ---
 
