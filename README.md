@@ -69,7 +69,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohamganmote&show_icons=true&locale=en&layout=compact" alt="sohamganmote" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohamganmote&show_icons=true&locale=en" alt="sohamganmote" /></p> -->
-
-<!-- Random Color Generate -->
-
-<button id="partyBtn">Change Color</button>
