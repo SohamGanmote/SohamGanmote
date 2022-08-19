@@ -74,7 +74,7 @@
 
 <p>
 
-    <div>
+    <p>
         <style>
             * {
                 margin: 0px;
@@ -97,12 +97,11 @@
                 font-size: 16px;
             }
         </style>
-    </div>
-
-    <div id="contener">
-        <div class="box">
+    </p>
+    <p id="contener">
+        <p class="box">
             <button id="partyBtn">Change Color</button>
-        </div>
+        </p>
         <script>
             const btn = document.querySelector("#partyBtn");
             const box = document.querySelector("#contener");
@@ -117,5 +116,5 @@
                 box.style.backgroundColor = `rgb(${r},${g},${b})`;
             })
         </script>
-    </div>
+    </p>
 </p>
