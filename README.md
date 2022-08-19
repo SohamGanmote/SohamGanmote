@@ -44,7 +44,7 @@
 
 <p align="center">
   <br/>
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="200px">
+  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300px">
   <a href="https://github.com/SohamGanmote/github-readme-stats"><img alt="SohamGanmote Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamGanmote&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="45%"/></a>
 </p>
 
