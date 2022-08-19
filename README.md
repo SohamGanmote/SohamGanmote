@@ -45,6 +45,7 @@
 <p align="center">
   <br/>
 <!--     <a href="https://github.com/yasinbhojani/github-readme-stats"><img alt="yasinbhojani Github Stats" src="https://github-readme-stats.vercel.app/api?username=SohamGanmote&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="45%" /></a> -->
+  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="">
   <a href="https://github.com/SohamGanmote/github-readme-stats"><img alt="SohamGanmote Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamGanmote&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="45%"/></a>
 </p>
 
@@ -69,5 +70,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohamganmote&show_icons=true&locale=en&layout=compact" alt="sohamganmote" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohamganmote&show_icons=true&locale=en" alt="sohamganmote" /></p> -->
-
-<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="">
