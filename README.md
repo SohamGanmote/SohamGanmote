@@ -72,7 +72,7 @@
 
 <!-- Random Color Generate -->
 
-<div>
+<p>
 
     <div>
         <style>
@@ -118,4 +118,4 @@
             })
         </script>
     </div>
-</div>
+</p>
