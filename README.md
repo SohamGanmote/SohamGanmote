@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frontend Web Devlopement (ReactJS)**
 
-- 💬 Ask me about **C,C++,C#,Unity2D,HTML,CSS,Bootstrape and JavaScript**
+- 💬 Ask me about **JavaScript, HTML, CSS, Unity Game Engine**
 
 - 📫 How to reach me **sohamganmote@gmail.com**
 
