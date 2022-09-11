@@ -5,7 +5,7 @@
 
 - 🎮 I’m currently working on [Solitaire(2D Android Game)](https://play.google.com/store/apps/details?id=com.SG.Birdy)
 
-- 🌱 I’m currently learning **Frontend Web Devlopement(ReactJS)**
+- 🌱 I’m currently learning **Frontend Web Devlopement (ReactJS)**
 
 - 💬 Ask me about **C,C++,C#,Unity2D,HTML,CSS,Bootstrape and JavaScript**
 
