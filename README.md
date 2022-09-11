@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamganmote&label=Profile%20views&color=0e75b6&style=flat" alt="sohamganmote" /> </p>
 
-- 🎮 I’m currently working on [Birdy(2D Android Game)](https://play.google.com/store/apps/details?id=com.SG.Birdy)
+- 🎮 I’m currently working on [Solitaire(2D Android Game)](https://play.google.com/store/apps/details?id=com.SG.Birdy)
 
-- 🌱 I’m currently learning **Frontend Web Devlopement**
+- 🌱 I’m currently learning **Frontend Web Devlopement(ReactJS)**
 
 - 💬 Ask me about **C,C++,C#,Unity2D,HTML,CSS,Bootstrape and JavaScript**
 
