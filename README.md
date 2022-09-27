@@ -17,7 +17,7 @@
 <a href="https://www.codechef.com/users/feezy_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="feezy_123" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/qytYcTr46w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/qytYcTr46w" height="30" width="40" /></a>
 </p> -->
-
+---
 <h3 align="left" style = "text-decoration:underline;" >🎓Languages and Tools:</h3>
 
 <h4 align="left">✅ Front End Programming Languages:</h4>
