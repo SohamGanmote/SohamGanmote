@@ -19,7 +19,7 @@
 </p> -->
 
 <h2 align="left" style = "text-decoration:underline;" >🎓Languages and Tools:</h2>
-<hr>
+
 <h4 align="left">✅ Front End Programming Languages:</h4>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
