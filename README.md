@@ -3,20 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamganmote&label=Profile%20views&color=0e75b6&style=flat" alt="sohamganmote" /> </p>
 
-- 🎮 I’m currently working on [Solitaire(2D Android Game)](https://play.google.com/store/apps/details?id=com.SG.Birdy)
-
 - 🌱 I’m currently learning **Frontend Web Devlopement (ReactJS)**
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Unity Game Engine**
 
 - 📫 How to reach me **sohamganmote@gmail.com**
 
-<!-- <h3 align="left">🚀Connect with me:</h3>
+<h3 align="left">🚀Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/soham___g___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soham___g___" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/feezy_123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="feezy_123" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/qytYcTr46w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/qytYcTr46w" height="30" width="40" /></a>
-</p> -->
+</p> 
 
 <h2 align="left" style = "text-decoration:underline;" >🎓Languages and Tools:</h2>
 
