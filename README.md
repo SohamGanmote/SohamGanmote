@@ -18,7 +18,7 @@
 <a href="https://discord.gg/https://discord.gg/qytYcTr46w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/qytYcTr46w" height="30" width="40" /></a>
 </p> -->
 
-<h3 align="left" style = "text-decoration:underline;" >🎓Languages and Tools:</h3>
+<h2 align="left" style = "text-decoration:underline;" >🎓Languages and Tools:</h2>
 <hr>
 <h4 align="left">✅ Front End Programming Languages:</h4>
 <p align="left"> 
