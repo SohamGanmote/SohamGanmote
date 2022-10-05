@@ -61,7 +61,7 @@
 <a href="[https://stackoverflow.com/users/14502144/yasin-bhojani](https://stackoverflow.com/users/19595690/soham-ganmote)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14502144/yasin-bhojani" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sohamganmote/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasin-bhojani-519a3a168" height="30" width="40" /></a>
 <a href="https://instagram.com/soham___g___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soham___g___" height="30" width="40" /></a>
-<a href="https://play.google.com/store/apps/dev?id=4668482498964914465" target="blank"><img align="center" src="https://www.mindboxindia.com/public/images/Acheivement_Icons/playstore.png" alt="feezy_123" height="30" width="40" /></a>
+<a href="https://play.google.com/store/apps/dev?id=4668482498964914465" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732208.png" alt="feezy_123" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/qytYcTr46w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/qytYcTr46w" height="30" width="40" /></a>
 </p> 
 </div>
