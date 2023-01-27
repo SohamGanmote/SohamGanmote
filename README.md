@@ -20,6 +20,16 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
+<h4 align="left">✅ Back End Programming Languages:</h4>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/fluency/48/null/node-js.png" alt="nodejs" 
+width="40" height="40" />
+</a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/fluency/48/null/express-js.png" alt="express" 
+width="40" height="40"/>
+</a>
+
 <h4 align="left">✅ Video game development:</h4>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
@@ -27,6 +37,10 @@
 <h4 align="left">✅ Other Programming Languages:</h4>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" 
+alt="java" width="40" height="40"/>
+</a>
 <br/>
 
 <h3 align="left">📊 My Github Stats : </h3>
