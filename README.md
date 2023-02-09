@@ -6,7 +6,7 @@
 <!-- - 🌱 I’m currently learning **Frontend Web Devlopement (ReactJS⚛️)**
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Unity Game Engine** -->
-- 💻 I’m currently learning ReactJS ⚛️
+- 💻 I’m currently learning MongoDB <img src="https://emojis.slackmojis.com/emojis/images/1643514447/4296/mongodb.png?1643514447"/>
 - 📫 How to reach me **sohamganmote@gmail.com**
 
 <h2 align="left" style = "text-decoration:underline;" >🎓Languages and Tools:</h2>
