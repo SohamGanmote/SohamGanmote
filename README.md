@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Soham</h1>
-<h3 align="center">A Passionate Frontend Developer/Game Developer From India.</h3>
+<!-- <h1 align="center">Hi 👋, I'm Soham</h1>
+<h3 align="center">A Passionate Frontend Developer/Game Developer From India.</h3> -->
+
+<img src="https://media.licdn.com/dms/image/D4D16AQFThcSwSQn9mw/profile-displaybackgroundimage-shrink_350_1400/0/1672641441001?e=1681344000&v=beta&t=tnwL1WsPRbZP4TUbPFnsQRUmUXKonDJ7Ju9U3G_wlME">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamganmote&label=Profile%20views&color=0e75b6&style=flat" alt="sohamganmote" /> </p>
 
