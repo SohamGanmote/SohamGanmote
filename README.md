@@ -8,7 +8,7 @@
 <!-- - 🌱 I’m currently learning **Frontend Web Devlopement (ReactJS⚛️)**
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Unity Game Engine** -->
-- 💻 I’m currently learning MongoDB(🍋)
+- 💻 I’m currently learning NodeJS
 - 📫 How to reach me **sohamganmote@gmail.com**
 
 <h2 align="left" style = "text-decoration:underline;" >🎓Languages and Tools:</h2>
