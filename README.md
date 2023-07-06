@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Soham</h1>
 <h3 align="center">A Passionate Frontend Developer/Game Developer From India.</h3> -->
 
-<img src="https://media.licdn.com/dms/image/D4D16AQH-MxjhARgQIg/profile-displaybackgroundimage-shrink_350_1400/0/1679940532440?e=1685577600&v=beta&t=tYd0YOfshp3aBQd5lELSHZjhNvNBcn1-RraEgTpLgZM">
+<img src="https://media.licdn.com/dms/image/D4D16AQH-MxjhARgQIg/profile-displaybackgroundimage-shrink_350_1400/0/1679940532440?e=1694044800&v=beta&t=pmisk17vdqShoGFmLCknfLz_MQLQSbCvqT9SlgtQXbA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamganmote&label=Profile%20views&color=0e75b6&style=flat" alt="sohamganmote" /> </p>
 
