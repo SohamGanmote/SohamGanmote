@@ -22,7 +22,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
-<h4 align="right">✅ Back End Programming Languages:</h4>
+<h4 align="left">✅ Back End Programming Languages:</h4>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/fluency/48/null/node-js.png" alt="nodejs" 
 width="40" height="40" />
@@ -36,7 +36,7 @@ width="40" height="40"/>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 
-<h4 align="right">✅ Other Programming Languages:</h4>
+<h4 align="left">✅ Other Programming Languages:</h4>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
@@ -51,7 +51,7 @@ alt="java" width="40" height="40"/>
 
 <p align="center">
   <br/>
-  <img src="https://media.tenor.com/jRcpod5gY0sAAAAC/cat-typing.gif" width="200px">
+  <img src="https://media.tenor.com/jRcpod5gY0sAAAAC/cat-typing.gif" width="240px">
   <a href="https://github.com/SohamGanmote/github-readme-stats"><img alt="SohamGanmote Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamGanmote&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="45%"/></a>
 </p>
 
