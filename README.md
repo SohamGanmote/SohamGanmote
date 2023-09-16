@@ -51,7 +51,7 @@ alt="java" width="40" height="40"/>
 
 <p align="center">
   <br/>
-  <img src="[https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/jRcpod5gY0sAAAAC/cat-typing.gif)" width="400px">
+  <img src="https://media.tenor.com/jRcpod5gY0sAAAAC/cat-typing.gif" width="400px">
   <a href="https://github.com/SohamGanmote/github-readme-stats"><img alt="SohamGanmote Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamGanmote&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="45%"/></a>
 </p>
 
