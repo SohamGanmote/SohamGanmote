@@ -35,6 +35,8 @@ width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" 
 alt="java" width="40" height="40"/>
 </a>
+
+<img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" alt="" width="100%">
   
 <div align="center">
 <h3 align="center">🚀Connect with me:</h3>
