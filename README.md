@@ -15,7 +15,7 @@
 
 I'm well-versed in a variety of programming languages and technologies, including:
 
-<div style="display: flex; justify-content: center; align-items: center;"> 
+<div style="display: flex; justify-content: center; align-items: center; gap:"10px";> 
   
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
 
