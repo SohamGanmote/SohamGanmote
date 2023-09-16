@@ -39,8 +39,6 @@ alt="java" width="40" height="40"/>
 ## Fun Facts About Me
 
 - **My code editor's theme is brighter than my future.** 🌟
-  
-  ![Bright Future](link-to-image)
 
 - **I've refactored the same piece of code at least a dozen times, just for fun.** 🔁
   
@@ -54,6 +52,7 @@ alt="java" width="40" height="40"/>
 
   If only there was a waterproof IDE for those "Eureka!" moments.
 
+<br/>
 
 <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" alt="" width="100%">
   
