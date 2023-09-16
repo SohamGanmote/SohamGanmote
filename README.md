@@ -6,18 +6,6 @@
 
 - **Email:** 📧 `sohamganmote@gmail.com` - Reach out before my inbox turns into a black hole of cat memes, code snippets, and unanswered emails. 🐱🌌
 
-## Current Gig at OyeLabs
-
-- **Job Title:** Junior Developer at [OyeLabs](https://oyelabs.com/) - I'm the proud code wrangler at OyeLabs, where we turn coffee into software, one bug at a time. ☕💻
-
-- **Daily Routine:** Debugging, debugging, and more debugging. Occasionally, I sneak in some coding between coffee breaks. And yes, we have an entire room dedicated to the coffee machine. ☕🛠️
-
-- **Team Spirit:** Our team communicates primarily in memes and GIFs. Meetings often turn into meme battles, but somehow, we still manage to get work done. 🤣🖼️
-
-- **Motto:** "Code, coffee, and cat memes - the three Cs of a junior developer's life." 🐱💬
-
-If you want to discuss work, tech, or just need someone to share the latest cat meme with, feel free to drop me an email. Just make sure it's not buried under a mountain of cat GIFs!
-
 ## Languages and Technologies I Speak
 
 I'm well-versed in a variety of programming languages and technologies, including:
