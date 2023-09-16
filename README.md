@@ -15,6 +15,8 @@
 
 I'm well-versed in a variety of programming languages and technologies, including:
 
+<div style="display: flex; justify-content: center; align-items: center;"> 
+  
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
 
 <img src="https://img.icons8.com/ultraviolet/40/000000/react.png"/>
@@ -26,6 +28,9 @@ I'm well-versed in a variety of programming languages and technologies, includin
 <img src="https://img.icons8.com/color/48/000000/firebase.png"/> 
 
 <img src="https://img.icons8.com/color/48/000000/mysql.png"/> 
+  
+<div/>
+
 
 Feel free to explore my repositories to see how I've put these languages and technologies to work. If you have any questions or want to collaborate on a project, don't hesitate to reach out!
 
