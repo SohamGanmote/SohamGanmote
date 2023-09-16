@@ -15,17 +15,17 @@
 
 I'm well-versed in a variety of programming languages and technologies, including:
 
-- <img src="https://img.icons8.com/color/48/000000/javascript.png"/> **JavaScript:** My primary language of choice for both frontend and backend development. I can whip up interactive websites and powerful server-side applications with ease.
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
 
-- <img src="https://img.icons8.com/ultraviolet/40/000000/react.png"/> **React:** When it comes to building dynamic and user-friendly user interfaces, React is my go-to library. I can create everything from simple components to complex SPAs.
+<img src="https://img.icons8.com/ultraviolet/40/000000/react.png"/>
 
-- <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> **Node.js:** I'm no stranger to server-side JavaScript. With Node.js, I can develop scalable and high-performance applications, handling requests and data with finesse.
+<img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 
-- <img src="https://img.icons8.com/color/48/000000/express.png"/> **Express:** For building robust and efficient web APIs, I turn to Express.js. It's a fantastic framework that streamlines the process and keeps my backend code clean.
+<img src="https://img.icons8.com/color/48/000000/express.png"/> 
 
-- <img src="https://img.icons8.com/color/48/000000/firebase.png"/> **Firebase:** When rapid development and real-time features are required, Firebase is my secret weapon. It's perfect for creating applications that scale effortlessly.
+<img src="https://img.icons8.com/color/48/000000/firebase.png"/> 
 
-- <img src="https://img.icons8.com/color/48/000000/mysql.png"/> **MySQL:** As a relational database management system, MySQL is my trusted choice for organizing and managing data. I can design databases and write queries that keep your data secure and accessible.
+<img src="https://img.icons8.com/color/48/000000/mysql.png"/> 
 
 Feel free to explore my repositories to see how I've put these languages and technologies to work. If you have any questions or want to collaborate on a project, don't hesitate to reach out!
 
