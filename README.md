@@ -1,6 +1,22 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamganmote&label=Profile%20views&color=0e75b6&style=flat" alt="sohamganmote" /> </p>
+
 <h1 align="center">Hi 👋, I'm Soham Ganmote (Full Stack Bugs Developer) </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamganmote&label=Profile%20views&color=0e75b6&style=flat" alt="sohamganmote" /> </p>
+## Contact Me (Before My Inbox Gets Overflowed with Cat Memes)
+
+- **Email:** 📧 `sohamganmote@gmail.com` - Reach out before my inbox turns into a black hole of cat memes, code snippets, and unanswered emails. 🐱🌌
+
+## Current Gig at OyeLabs
+
+- **Job Title:** Junior Developer at [OyeLabs](https://oyelabs.com/) - I'm the proud code wrangler at OyeLabs, where we turn coffee into software, one bug at a time. ☕💻
+
+- **Daily Routine:** Debugging, debugging, and more debugging. Occasionally, I sneak in some coding between coffee breaks. And yes, we have an entire room dedicated to the coffee machine. ☕🛠️
+
+- **Team Spirit:** Our team communicates primarily in memes and GIFs. Meetings often turn into meme battles, but somehow, we still manage to get work done. 🤣🖼️
+
+- **Motto:** "Code, coffee, and cat memes - the three Cs of a junior developer's life." 🐱💬
+
+If you want to discuss work, tech, or just need someone to share the latest cat meme with, feel free to drop me an email. Just make sure it's not buried under a mountain of cat GIFs!
 
 ## Languages and Technologies I Speak
 
