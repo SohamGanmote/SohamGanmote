@@ -36,6 +36,25 @@ width="40" height="40"/>
 alt="java" width="40" height="40"/>
 </a>
 
+## Fun Facts About Me
+
+- **My code editor's theme is brighter than my future.** 🌟
+  
+  ![Bright Future](link-to-image)
+
+- **I've refactored the same piece of code at least a dozen times, just for fun.** 🔁
+  
+  You know you're a true developer when you refactor your code until it's unrecognizable, just for the thrill of optimization.
+
+- **I once wrote an entire web app without caffeine. It wasn't pretty.** ☕
+
+  It turns out caffeine is a critical part of my code's beauty routine. No caffeine, no pretty code.
+
+- **I dream in code, and my best ideas come to me in the shower.** 🚿💡
+
+  If only there was a waterproof IDE for those "Eureka!" moments.
+
+
 <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" alt="" width="100%">
   
 <div align="center">
