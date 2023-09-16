@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soham Ganmote (Full Stack Bugs Developer) </h1>
-<!-- <h3 align="center">A Passionate Frontend Developer/Game Developer From India.</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamganmote&label=Profile%20views&color=0e75b6&style=flat" alt="sohamganmote" /> </p>
-
-<!-- - 🌱 I’m currently learning **Frontend Web Devlopement (ReactJS⚛️)**
-
-- 💬 Ask me about **JavaScript, HTML, CSS, Unity Game Engine** -->
-- 💻 I’m currently learning NodeJS
-- 📫 How to reach me **sohamganmote@gmail.com**
-
-<h2 align="left" style = "text-decoration:underline;" >🎓Languages and Tools:</h2>
 
 ## Languages and Technologies I Speak
 
