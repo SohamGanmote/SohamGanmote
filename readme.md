@@ -1,1 +1,1 @@
-![Calculator Screenshot](./banner2.png)
+![Calculator Screenshot](./banner3.png)
