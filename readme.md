@@ -25,10 +25,11 @@ Passionate about creating seamless user experiences and exploring new tech.
 
 ### 🌱 Currently Exploring
 - Advanced **system design** for scalable apps  
-- **Cloud-native solutions** with AWS & Docker  
-- Optimizing real-time communication systems  
+- Optimizing real-time communication systems
+- Running and managing a **homelab server** for self-hosting, deployments, and experiments  
 
 ---
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/sohamganmote/) • [Portfolio](https://sohamganmote.vercel.app/) • [Email](mailto:sohamganmote@gmail.com)
+
