@@ -1,3 +1,5 @@
+<img src="./banner.gif" alt="Coding GIF" width="100%" />
+
 ### Hey there 👋
 
 #### A Software Engineer by day ☼ and a Curious Learner by night ☾
@@ -32,4 +34,5 @@ Passionate about creating seamless user experiences and exploring new tech.
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/sohamganmote/) • [Portfolio](https://sohamganmote.vercel.app/) • [Email](mailto:sohamganmote@gmail.com)
+
 
