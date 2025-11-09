@@ -17,7 +17,7 @@ Passionate about creating seamless user experiences and exploring new tech.
 ---
 
 ### ⚡ Tech Stack
-`JavaScript` `TypeScript` `React.js` `Redux`  
+`JavaScript` `TypeScript` `React.js` `Next.js` `Redux`  
 `Node.js` `Express` `MySQL` `PostgreSQL`  
 `Firebase` `Tailwind` `REST APIs`  
 `WebSocket` `Event Streams`  
@@ -34,5 +34,6 @@ Passionate about creating seamless user experiences and exploring new tech.
 
 ### 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/sohamganmote/) • [Portfolio](https://sohamganmote.vercel.app/) • [Email](mailto:sohamganmote@gmail.com)
+
 
 
