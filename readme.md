@@ -33,7 +33,8 @@ Passionate about creating seamless user experiences and exploring new tech.
 ---
 
 ### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/sohamganmote/) • [Portfolio](https://sohamganmote.vercel.app/) • [Email](mailto:sohamganmote@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sohamganmote/) • [Portfolio](https://sohamg.in/) • [Email](mailto:sohamganmote@gmail.com)
+
 
 
 
